@@ -1,0 +1,13 @@
+version: "3.7"
+
+services:
+  apache:
+    image: webdevops/php-apache:alpine-php7
+    ports:
+      - "4500:80"
+    volumes:
+      - /data/php-d/:/app
+    networks:
+      - minha-rede
+networks:
+   minha-rede:
