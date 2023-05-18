@@ -1,6 +1,6 @@
 <h1>Conhecendo o Projeto Spring Data JPA na Prática </h1>
 
-<p> Sejam bem-vindos ao projeto meu primeit <strong> Docker Composer</strong>.<br>
+<p> Sejam bem-vindos ao projeto meu primeiro <strong> Docker Composer</strong>.<br>
 
 <h2>🎯 Objetivo do Projeto</h2>
 <p>Construir um arquivo <strong>docker-composer.yml</strong> Para criar uma container com apache/php utilizando a imagem <strong>webdevops/php-apache:alpine-php7</strong> 
